@@ -2,6 +2,7 @@ package Strings;
 
 public class Basics {
 
+
     public static void main(String[] args) {
         String name = "Sanjai"; //Stored in the Same String Pool
         String b = "Sanjai"; //Stored in the Same String Pool as name
