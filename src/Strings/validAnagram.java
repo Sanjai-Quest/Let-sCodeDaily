@@ -2,7 +2,7 @@ package Strings;
 
 import java.util.Arrays;
 
-public class validAnagaram {
+public class validAnagram {
 
     public static boolean isvalid(String s, String t) {
         if(s.length() == t.length()) return true;
