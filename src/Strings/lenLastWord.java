@@ -11,7 +11,9 @@ public class lenLastWord {
 
     public static void main(String[] args) {
         String s = "Hello World";
+        String s1 = "Hello    Sanjai how are       u";
         System.out.println(lengthOfLastWord(s));
+        System.out.println(lengthOfLastWord(s1));
     }
 
 }
